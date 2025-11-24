@@ -8,8 +8,8 @@
   "name":"obj_paddle_player",
   "overriddenProperties":[],
   "parent":{
-    "name":"Objects",
-    "path":"folders/Objects.yy",
+    "name":"Paths",
+    "path":"folders/Paths.yy",
   },
   "parentObjectId":null,
   "persistent":false,
@@ -29,7 +29,10 @@
   "resourceType":"GMObject",
   "resourceVersion":"2.0",
   "solid":false,
-  "spriteId":null,
+  "spriteId":{
+    "name":"spr_paddle",
+    "path":"sprites/spr_paddle/spr_paddle.yy",
+  },
   "spriteMaskId":null,
   "visible":true,
 }
